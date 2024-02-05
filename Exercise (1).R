@@ -107,3 +107,10 @@ p + labs(title    = "Weight w.r.t mpg",
          # subtitle = "Color by Year",
          x = "Miles per Gallon",
          y = "Weight")
+
+##Add some Comments to this R script
+##This R script is used to data processing or analysis, including sections to setting up the environment, loading required libraries, and specifying the working directory. It starts with a header commenting on the section and date, followed by the loading of various libraries such as dplyr, writexl, and readxl, and setting the working directory.
+
+
+
+
